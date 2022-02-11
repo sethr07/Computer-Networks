@@ -1,9 +1,9 @@
-#3D3: Computer Networks Project 1
+3D3: Computer Networks Project 1
 
-#Provided File:
+Provided File:
 server.c and client.c
 
-#Usage:
+Usage:
 Build both files and then run the server first and then the client.
 make server
 ./server
